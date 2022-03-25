@@ -26,4 +26,4 @@ jobs:
         dst_path: /.
         dst_owner: josesoaresif
         dst_repo_name: optest
-        exclude: "{.github,_dev}/{**/*,*}"
+        exclude: "{.github,_dev}/*"
