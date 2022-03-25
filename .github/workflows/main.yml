@@ -26,6 +26,6 @@ jobs:
         dst_path: /.
         dst_owner: josesoaresif
         dst_repo_name: optest
-        exclude: "_dev/**"
+        exclude: "{gitignore_older,master.txt}"
         
         
